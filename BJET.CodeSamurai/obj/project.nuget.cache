@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BfCh06J/i8C/ghb5zqTUuTklUK/49xznnQr6AKNAXSyFFXuJB3mm61PDFls2+/FUtCSDcXve43BZ7PqxdZR5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\B - JET\\CHAPTER2\\BJET_CodeSamurai\\BJET.CodeSamurai\\BJET.CodeSamurai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

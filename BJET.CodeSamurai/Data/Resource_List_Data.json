@@ -1,0 +1,377 @@
+{
+  "1": {
+    "name": "Nusrat",
+    "assignedHours": 2,
+    "type": "BE"
+  },
+  "2": {
+    "name": "Rafiul",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "3": {
+    "name": "Tamanna",
+    "assignedHours": 3,
+    "type": "BE"
+  },
+  "4": {
+    "name": "Ikramul",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "5": {
+    "name": "Saniyat",
+    "assignedHours": 5,
+    "type": "BC"
+  },
+  "6": {
+    "name": "Rohan",
+    "assignedHours": 8,
+    "type": "BC"
+  },
+  "7": {
+    "name": "Shofiuddin",
+    "assignedHours": 2,
+    "type": "FE"
+  },
+  "8": {
+    "name": "Samiul",
+    "assignedHours":3,
+    "type": "AI"
+  },
+  "9": {
+    "name": "Saife",
+    "assignedHours": 5,
+    "type": "AI"
+  },
+  "10": {
+    "name": "Reza",
+    "assignedHours": 8,
+    "type": "QA"
+  },
+  "11": {
+    "name": "Afnan",
+    "assignedHours": 4.5,
+    "type": "DOPS"
+  },
+  "12": {
+    "name": "Prince",
+    "assignedHours": 5.5,
+    "type": "BC"
+  },
+  "13": {
+    "name": "Ibrahim",
+    "assignedHours": 5.6,
+    "type": "BC"
+  },
+  "14": {
+    "name": "Khalil",
+    "assignedHours": 3.5,
+    "type": "DB"
+  },
+  "15": {
+    "name": "Sayed",
+    "assignedHours": 2.5,
+    "type": "MGR"
+  },
+  "16": {
+    "name": "Mizanur",
+    "assignedHours": 2,
+    "type": "BC"
+  },
+  "17": {
+    "name": "Apu",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "18": {
+    "name": "Dolan",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "19": {
+    "name": "Mustafiz",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "20": {
+    "name": "Taslima",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "21": {
+    "name": "Rajsree",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "22": {
+    "name": "Minhaz",
+    "assignedHours": 4,
+    "type": "MGR"
+  },
+  "23": {
+    "name": "Nandi",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "24": {
+    "name": "Fazla",
+    "assignedHours": 2,
+    "type": "MGR"
+  },
+  "25": {
+    "name": "Monir",
+    "assignedHours": 3,
+    "type": "BE"
+  },
+  "26": {
+    "name": "Maksudur",
+    "assignedHours": 2,
+    "type": "BE"
+  },
+  "27": {
+    "name": "Shihab",
+    "assignedHours": 5,
+    "type": "BE"
+  },
+  "28": {
+    "name": "Niaz",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "29": {
+    "name": "Aminul",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "30": {
+    "name": "Aulipriya",
+    "assignedHours": 8,
+    "type": "AI"
+  },
+  "31": {
+    "name": "Nafiul",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "32": {
+    "name": "Solaiman",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "33": {
+    "name": "Naznin",
+    "assignedHours": 8,
+    "type": "QA"
+  },
+  "34": {
+    "name": "Nahian",
+    "assignedHours": 2,
+    "type": "FE"
+  },
+  "35": {
+    "name": "Asef",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "36": {
+    "name": "Chisty",
+    "assignedHours": 3,
+    "type": "DOPS"
+  },
+  "37": {
+    "name": "Shorif",
+    "assignedHours": 4,
+    "type": "AI"
+  },
+  "38": {
+    "name": "Sadman",
+    "assignedHours": 2,
+    "type": "DB"
+  },
+  "39": {
+    "name": "Fahim",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "40": {
+    "name": "Rabbi",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "41": {
+    "name": "Halima",
+    "assignedHours": 5,
+    "type": "QA"
+  },
+  "42": {
+    "name": "Robiul",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "43": {
+    "name": "Shofiul",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "44": {
+    "name": "Saiful",
+    "assignedHours": 3,
+    "type": "DB"
+  },
+  "45": {
+    "name": "Mozammel",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "46": {
+    "name": "Noman",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "47": {
+    "name": "Niloy",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "48": {
+    "name": "Rafida",
+    "assignedHours": 7.5,
+    "type": "MGR"
+  },
+  "49": {
+    "name": "Mobin",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "50": {
+    "name": "Zerin",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "51": {
+    "name": "Foysal",
+    "assignedHours": 6,
+    "type": "BE"
+  },
+  "52": {
+    "name": "Fardin",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "53": {
+    "name": "Riazul",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "54": {
+    "name": "Moin",
+    "assignedHours": 3.5,
+    "type": "BE"
+  },
+  "55": {
+    "name": "Nakib",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "56": {
+    "name": "Rayhan",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "57": {
+    "name": "Asad",
+    "assignedHours": 8,
+    "type": "DOPS"
+  },
+  "58": {
+    "name": "Afrin",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "59": {
+    "name": "Akib",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "60": {
+    "name": "Rahat",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "61": {
+    "name": "Yamin",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "62": {
+    "name": "Selim",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "63": {
+    "name": "Israt",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "64": {
+    "name": "Zafar",
+    "assignedHours": 8,
+    "type": "DB"
+  },
+  "65": {
+    "name": "Zannat",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "66": {
+    "name": "Oishi",
+    "assignedHours": 8,
+    "type": "MGR"
+  },
+  "67": {
+    "name": "Rakib",
+    "assignedHours": 5,
+    "type": "MGR"
+  },
+  "68": {
+    "name": "Saddam",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "69": {
+    "name": "Kalam",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "70": {
+    "name": "Boshir",
+    "assignedHours": 4,
+    "type": "FE"
+  },
+  "71": {
+    "name": "Adiba",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "72": {
+    "name": "Faiza",
+    "assignedHours": 8,
+    "type": "FE"
+  },
+  "73": {
+    "name": "Farin",
+    "assignedHours": 6,
+    "type": "DB"
+  },
+  "74": {
+    "name": "Delwar",
+    "assignedHours": 8,
+    "type": "BE"
+  },
+  "75": {
+    "name": "Farabi",
+    "assignedHours": 8,
+    "type": "BE"
+  }
+}

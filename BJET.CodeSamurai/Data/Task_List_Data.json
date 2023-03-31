@@ -1,0 +1,903 @@
+{
+  "taskList": {
+    "1": {
+      "title": "Designing login page",
+      "estimatedHours": "6",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "2": {
+      "title": "Monitor database log files",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "3": {
+      "title": "Showing bar chart using d3 js",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "4": {
+      "title": "Visualize data using d3 js",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "5": {
+      "title": "Designing components of webpage",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "6": {
+      "title": "Designing components of webpage",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "7": {
+      "title": "Making documentation",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "8": {
+      "title": "Designing the frontend page in figma",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "9": {
+      "title": "Designing the frontend page in figma",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "10": {
+      "title": "Creating json dataset",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "11": {
+      "title": "Testing sharding project with shard limit 200 using caliper. ",
+      "estimatedHours": "16",
+      "dependsOn": "",
+      "resourceType": "BC"
+    },
+    "12": {
+      "title": "Creating json dataset",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "13": {
+      "title": "Assign Case to Operator Check module implementation",
+      "estimatedHours": "16",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "14": {
+      "title": "Collaborate with the team on bug fixing and testing",
+      "estimatedHours": "6",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "15": {
+      "title": "Collaborate with the team on bug fixing and testing",
+      "estimatedHours": "6",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+
+    "16": {
+      "title": "Need to change Case view page Editable field",
+      "estimatedHours": "5",
+      "dependsOn": "1",
+      "resourceType": "FE"
+    },
+    "17": {
+      "title": "Implement responsive web design",
+      "estimatedHours": "4",
+      "dependsOn": "2",
+      "resourceType": "FE"
+    },
+    "18": {
+      "title": "Implement responsive web design",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "19": {
+      "title": "Integrate with backend API",
+      "estimatedHours": "6",
+      "dependsOn": "4",
+      "resourceType": "FE"
+    },
+    "20": {
+      "title": "Create user registration form",
+      "estimatedHours": "4",
+      "dependsOn": "5",
+      "resourceType": "FE"
+    },
+    "21": {
+      "title": "Develop search feature",
+      "estimatedHours": "10",
+      "dependsOn": "6",
+      "resourceType": "FE"
+    },
+    "22": {
+      "title": "Implement image carousel",
+      "estimatedHours": "7",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "23": {
+      "title": "Add animation effects",
+      "estimatedHours": "16",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "24": {
+      "title": "Implement form validation",
+      "estimatedHours": "4",
+      "dependsOn": "9",
+      "resourceType": "FE"
+    },
+    "25": {
+      "title": "Design and implement mobile navigation menu",
+      "estimatedHours": "16",
+      "dependsOn": "10",
+      "resourceType": "FE"
+    },
+    "26": {
+      "title": "Integrate with third-party login service",
+      "estimatedHours": "4",
+      "dependsOn": "11",
+      "resourceType": "FE"
+    },
+    "27": {
+      "title": "Create custom 404 page",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "28": {
+      "title": "Integrate with Google Maps API",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "29": {
+      "title": "Design and implement e-commerce checkout process",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "30": {
+      "title": "Implement data filtering and sorting",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+
+    "31": {
+      "title": "Designing FAQ page",
+      "estimatedHours": "4",
+      "dependsOn": "16",
+      "resourceType": "FE"
+    },
+
+    "32": {
+      "title": "Designing chat history page",
+      "estimatedHours": "4",
+      "dependsOn": "1",
+      "resourceType": "FE"
+    },
+
+    "33": {
+      "title": "Designing chat screen page",
+      "estimatedHours": "23",
+      "dependsOn": "32",
+      "resourceType": "FE"
+    },
+
+    "34": {
+      "title": "Designing the project architecture",
+      "estimatedHours": "20",
+      "dependsOn": "32,33",
+      "resourceType": "MGR"
+    },
+    "35": {
+      "title": "Develop and implement team strategy and goals",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "36": {
+      "title": "Manage team budget and resources",
+      "estimatedHours": "10",
+      "dependsOn": "18",
+      "resourceType": "FE"
+    },
+    "37": {
+      "title": "Hire, train, and develop team members",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "38": {
+      "title": "Conduct performance evaluations and provide feedback",
+      "estimatedHours": "20",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "39": {
+      "title": "Facilitate team meetings and communication",
+      "estimatedHours": "10",
+      "dependsOn": "21",
+      "resourceType": "MGR"
+    },
+    "40": {
+      "title": "Monitor team progress and provide support as needed",
+      "estimatedHours": "14",
+      "dependsOn": "22",
+      "resourceType": "MGR"
+    },
+    "41": {
+      "title": "Identify and facilitate opportunities for team learning and development",
+      "estimatedHours": "16",
+      "dependsOn": "23",
+      "resourceType": "MGR"
+    },
+    "42": {
+      "title": "Coordinate with other teams and departments to ensure smooth project execution",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "43": {
+      "title": "Collaborate with other managers to ensure alignment with company goals",
+      "estimatedHours": "12",
+      "dependsOn": "10",
+      "resourceType": "MGR"
+    },
+    "44": {
+      "title": "Manage team projects and timelines",
+      "estimatedHours": "12",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "45": {
+      "title": "Facilitate team decision-making and problem-solving",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "46": {
+      "title": "Identify and address any team skill gaps",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "47": {
+      "title": "Create and maintain team documentation",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "48": {
+      "title": "Ensure team compliance with company policies and procedures",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "49": {
+      "title": "Designing the project architecture",
+      "estimatedHours": "15",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "50": {
+      "title": "Implement server-side data denormalization",
+      "estimatedHours": "13",
+      "dependsOn": "2,17",
+      "resourceType": "BE"
+    },
+    "51": {
+      "title": "Integrate with natural language processing service.",
+      "estimatedHours": "17",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "52": {
+      "title": "Develop and implement a system for handling artificial intelligence tasks",
+      "estimatedHours": "4",
+      "dependsOn": "36",
+      "resourceType": "BE"
+    },
+    "53": {
+      "title": "Develop and implement a system for handling real-time notifications.",
+      "estimatedHours": "4",
+      "dependsOn": "37",
+      "resourceType": "BE"
+    },
+    "54": {
+      "title": "Implement server-side filtering and sorting",
+      "estimatedHours": "4",
+      "dependsOn": "38",
+      "resourceType": "BE"
+    },
+    "55": {
+      "title": "Integrate with geolocation service",
+      "estimatedHours": "20",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "56": {
+      "title": "Develop and implement a system for handling image manipulation and optimization",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "57": {
+      "title": "Implement server-side data normalization",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "58": {
+      "title": "Integrate with machine learning service",
+      "estimatedHours": "18",
+      "dependsOn": "9",
+      "resourceType": "BE"
+    },
+    "59": {
+      "title": "Implement server-side pagination",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "60": {
+      "title": "Develop and implement a system for handling file uploads",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "61": {
+      "title": "Develop and implement security measures (e.g. encryption, password hashing)",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "62": {
+      "title": "Integrate with cloud storage service",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "63": {
+      "title": "Integrate with search engine",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "65": {
+      "title": "Designing Blockchain network",
+      "estimatedHours": "20",
+      "dependsOn": "",
+      "resourceType": "BC"
+    },
+    "66": {
+      "title": "Developing Blockchain network",
+      "estimatedHours": "22",
+      "dependsOn": "",
+      "resourceType": "BC"
+    },
+
+    "67": {
+      "title": "Designing Database",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "68": {
+      "title": "Developing Database",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "69": {
+      "title": "Develop and maintain test plans and test cases",
+      "estimatedHours": "14",
+      "dependsOn": "66",
+      "resourceType": "QA"
+    },
+    "70": {
+      "title": "Execute manual and automated tests",
+      "estimatedHours": "12",
+      "dependsOn": "50",
+      "resourceType": "QA"
+    },
+    "71": {
+      "title": "Identify and report defects and issues found during testing",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "72": {
+      "title": "Collaborate with developers to reproduce and troubleshoot defects",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "73": {
+      "title": "Participate in code reviews to identify potential issues",
+      "estimatedHours": "12",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "74": {
+      "title": "Verify that defects are fixed and that solutions meet requirements",
+      "estimatedHours": "15",
+      "dependsOn": "55",
+      "resourceType": "QA"
+    },
+    "75": {
+      "title": "Create and maintain documentation for testing efforts",
+      "estimatedHours": "16",
+      "dependsOn": "56",
+      "resourceType": "QA"
+    },
+    "76": {
+      "title": "Develop and maintain testing environments",
+      "estimatedHours": "19",
+      "dependsOn": "57",
+      "resourceType": "QA"
+    },
+    "77": {
+      "title": "Monitor and improve testing coverage and effectiveness",
+      "estimatedHours": "17",
+      "dependsOn": "58,42",
+      "resourceType": "QA"
+    },
+    "78": {
+      "title": "Implement and maintain automated testing frameworks",
+      "estimatedHours": "18",
+      "dependsOn": "12",
+      "resourceType": "QA"
+    },
+    "79": {
+      "title": "Participate in agile development process and attend daily stand-ups",
+      "estimatedHours": "17",
+      "dependsOn": "13",
+      "resourceType": "QA"
+    },
+    "80": {
+      "title": "Review and provide feedback on requirements and user stories",
+      "estimatedHours": "10",
+      "dependsOn": "14",
+      "resourceType": "QA"
+    },
+    "81": {
+      "title": "Participate in sprint planning and estimation",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "82": {
+      "title": "Write and maintain automated tests",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "83": {
+      "title": "Track and report on testing progress and metrics",
+      "estimatedHours": "16",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "84": {
+      "title": "Participate in release planning and testing",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+    "85": {
+      "title": "Collaborate with other QA engineers to share knowledge and improve processes",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "QA"
+    },
+
+    "86": {
+      "title": "Integrate with web font library",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+
+    "87": {
+      "title": "Design and implement progress bar",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "88": {
+      "title": "Implement custom date picker",
+      "estimatedHours": "15",
+      "dependsOn": "71",
+      "resourceType": "FE"
+    },
+    "89": {
+      "title": "Add support for print styles",
+      "estimatedHours": "20",
+      "dependsOn": "4,19",
+      "resourceType": "FE"
+    },
+    "90": {
+      "title": "Implement custom tabs",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "91": {
+      "title": "Implement custom range slider",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "92": {
+      "title": "Implement custom pagination",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "93": {
+      "title": "Design and implement custom spinners",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "94": {
+      "title": "Implement custom color picker",
+      "estimatedHours": "12",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "95": {
+      "title": "Add support for accessibility (WCAG compliance)",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "96": {
+      "title": "Monitor database performance and optimize as necessary",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "97": {
+      "title": "Develop and implement database backup and recovery procedures",
+      "estimatedHours": "15",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "98": {
+      "title": "Implement database security measures",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "99": {
+      "title": "Troubleshoot database issues and resolve problems",
+      "estimatedHours": "17",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "100": {
+      "title": "Import and export data to and from database",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "101": {
+      "title": "Add lazy loading for images",
+      "estimatedHours": "11",
+      "dependsOn": "87",
+      "resourceType": "FE"
+    },
+    "102": {
+      "title": "Implement real-time chat feature",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "103": {
+      "title": "Design and implement email subscription form",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "104": {
+      "title": "Implement custom file uploader",
+      "estimatedHours": "11",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "105": {
+      "title": "Add support for RTL (right-to-left) languages",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "106": {
+      "title": "Implement password strength indicator",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "107": {
+      "title": "Integrate with payment gateway",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "108": {
+      "title": "Design and implement dashboard for data visualization",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "109": {
+      "title": "Create and style custom dropdown menu",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+
+    "110": {
+      "title": "Implement autocomplete search feature",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "111": {
+      "title": "Develop and implement database replication strategy",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "112": {
+      "title": "Configure database connectivity for applications",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "113": {
+      "title": "Develop and implement database disaster recovery plan",
+      "estimatedHours": "17",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "114": {
+      "title": "Monitor database system resources (e.g. memory, CPU) and adjust as necessary",
+      "estimatedHours": "19",
+      "dependsOn": "93,103",
+      "resourceType": "DB"
+    },
+    "115": {
+      "title": "Upgrade database management system and related software",
+      "estimatedHours": "20",
+      "dependsOn": "25,43",
+      "resourceType": "DB"
+    },
+    "116": {
+      "title": "Develop and implement database performance monitoring system",
+      "estimatedHours": "15",
+      "dependsOn": "11",
+      "resourceType": "DB"
+    },
+
+    "117": {
+      "title": "Analyze database structure and suggest improvements",
+      "estimatedHours": "14",
+      "dependsOn": "12",
+      "resourceType": "DB"
+    },
+    "118": {
+      "title": "Develop and implement database change management process",
+      "estimatedHours": "13",
+      "dependsOn": "13",
+      "resourceType": "DB"
+    },
+    "119": {
+      "title": "Monitor database for potential security threats and vulnerabilities",
+      "estimatedHours": "15",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+
+    "120": {
+      "title": "Create and manage database user accounts and permissions",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "121": {
+      "title": "Optimize database schema and queries for better performance",
+      "estimatedHours": "18",
+      "dependsOn": "",
+      "resourceType": "DB"
+    },
+    "123": {
+      "title": "Analyze project requirements",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "124": {
+      "title": "Analyze project requirements",
+      "estimatedHours": "12",
+      "dependsOn": "",
+      "resourceType": "MGR"
+    },
+    "125": {
+      "title": "Collect Dataset",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "126": {
+      "title": "Collect Dataset",
+      "estimatedHours": "12",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "127": {
+      "title": "Collect Dataset",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "128": {
+      "title": "Collect Dataset",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "AI"
+    },
+    "129": {
+      "title": "Integrate with Google Analytics",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "130": {
+      "title": "Design and implement notification system",
+      "estimatedHours": "4",
+      "dependsOn": "116,44",
+      "resourceType": "FE"
+    },
+    "131": {
+      "title": "Implement custom accordion",
+      "estimatedHours": "4",
+      "dependsOn": "104,117",
+      "resourceType": "FE"
+    },
+    "132": {
+      "title": "Implement drag-and-drop functionality",
+      "estimatedHours": "4",
+      "dependsOn": "118, 79",
+      "resourceType": "FE"
+    },
+    "133": {
+      "title": "Integrate with push notification service",
+      "estimatedHours": "13",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "134": {
+      "title": "Implement custom popover",
+      "estimatedHours": "14",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "135": {
+      "title": "Design and implement rating system",
+      "estimatedHours": "19",
+      "dependsOn": "",
+      "resourceType": "FE"
+    },
+    "137": {
+      "title": "Implement custom modal window",
+      "estimatedHours": "17",
+      "dependsOn": "125,129",
+      "resourceType": "FE"
+    },
+    "138": {
+      "title": "Implement user authentication and authorization",
+      "estimatedHours": "21",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+
+    "139": {
+      "title": "Integrate with third-party APIs",
+      "estimatedHours": "22",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+
+    "140": {
+      "title": "Develop RESTful API endpoints",
+      "estimatedHours": "4",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+
+    "141": {
+      "title": "Implement server-side rendering",
+      "estimatedHours": "20",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "142": {
+      "title": "Develop background job processing system",
+      "estimatedHours": "21",
+      "dependsOn": "111",
+      "resourceType": "BE"
+    },
+
+    "143": {
+      "title": "Implement real-time event streaming",
+      "estimatedHours": "22",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+
+    "144": {
+      "title": "Develop and implement caching strategy",
+      "estimatedHours": "10",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "145": {
+      "title": "Implement data migration scripts",
+      "estimatedHours": "16",
+      "dependsOn": "",
+      "resourceType": "BE"
+    },
+    "146": {
+      "title": "Integrate with message queueing system",
+      "estimatedHours": "15",
+      "dependsOn": "138,143",
+      "resourceType": "BE"
+    },
+    "147": {
+      "title": "Database Normalization",
+      "estimatedHours": "14",
+      "dependsOn": "92, 146",
+      "resourceType": "DB"
+    },
+    "148": {
+      "title": "Develop database schema",
+      "estimatedHours": "14",
+      "dependsOn": "145, 91",
+      "resourceType": "DB"
+    },
+    "149": {
+      "title": "Implement database security measures",
+      "estimatedHours": "14",
+      "dependsOn": "73, 90",
+      "resourceType": "DB"
+    },
+
+    "150": {
+      "title": "Troubleshoot database issues and resolve problems",
+      "estimatedHours": "14",
+      "dependsOn": "72,89",
+      "resourceType": "DB"
+    }
+  }
+}

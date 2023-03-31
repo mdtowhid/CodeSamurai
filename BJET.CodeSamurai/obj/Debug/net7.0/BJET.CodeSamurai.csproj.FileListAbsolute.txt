@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\BJET.CodeSamurai.exe
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\BJET.CodeSamurai.deps.json
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\BJET.CodeSamurai.runtimeconfig.json
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\BJET.CodeSamurai.dll
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\BJET.CodeSamurai.pdb
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.AssemblyInfo.cs
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.csproj.CopyComplete
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.dll
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\refint\BJET.CodeSamurai.dll
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.pdb
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\BJET.CodeSamurai.genruntimeconfig.cache
+C:\Users\hp\Documents\B - JET\CHAPTER2\BJET_CodeSamurai\BJET.CodeSamurai\obj\Debug\net7.0\ref\BJET.CodeSamurai.dll

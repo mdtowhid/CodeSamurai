@@ -1,0 +1,82 @@
+{
+	"1": {
+		"name": "JSDE",
+		"startDate": "30/12/2022",
+		"endDate": "30/03/2023"
+	},
+
+	"2": {
+		"name": "FaceAI",
+		"startDate": "30/01/2023",
+		"endDate": "30/06/2023"
+	},
+
+	"3": {
+		"name": "PockeTalk",
+		"startDate": "10/12/2022",
+		"endDate": "20/04/2023"
+	},
+
+	"4": {
+		"name": "Velmet",
+		"startDate": "30/12/2023",
+		"endDate": "30/06/2023"
+	},
+
+	"5": {
+		"name": "Mobicoma",
+		"startDate": "30/02/2022",
+		"endDate": "30/07/2022"
+	},
+	"6": {
+		"name": "ANK",
+		"startDate": "30/06/2022",
+		"endDate": "30/01/2023"
+	},
+	"7": {
+		"name": "Jasmy-Labo",
+		"startDate": "30/09/2022",
+		"endDate": "30/01/2023"
+	},
+	"8": {
+		"name": "Denka",
+		"startDate": "30/11/2022",
+		"endDate": "30/05/2023"
+	},
+	"9": {
+		"name": "Omron",
+		"startDate": "30/10/2022",
+		"endDate": "30/03/2023"
+	},
+	"10": {
+		"name": "Archeco",
+		"startDate": "30/01/2022",
+		"endDate": "30/01/2023"
+	},
+	"11": {
+		"name": "MeMo",
+		"startDate": "30/04/2022",
+		"endDate": "30/03/2023"
+	},
+	"12": {
+		"name": "SafePro",
+		"startDate": "30/08/2022",
+		"endDate": "30/04/2023"
+	},
+	"13": {
+		"name": "EnZan",
+		"startDate": "30/07/2022",
+		"endDate": "30/03/2023"
+	},
+	"14": {
+		"name": "ASD",
+		"startDate": "30/05/2022",
+		"endDate": "30/01/2023"
+	},
+	"15": {
+		"name": "SNLabo",
+		"startDate": "30/12/2022",
+		"endDate": "30/09/2023"
+	}
+
+}
